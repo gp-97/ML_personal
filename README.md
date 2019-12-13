@@ -1,2 +1,2 @@
 # ML_personal
-Implimentation of ML Concepts
+Implementation of basic Machine Learning Concepts using python.
